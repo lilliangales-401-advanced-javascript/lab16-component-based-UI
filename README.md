@@ -22,4 +22,4 @@
 ###### `app.scss`
 
 #### UML
-![UML]()
+![UML](lab26-uml.jpeg)
